@@ -1,8 +1,8 @@
-- title: Home
+- title: Hello!
   link: /
   show_on_mobile: true
-- title: Docs
-  link: /docs/
+- title: Personal
+  link: /personal/
   show_on_mobile: true
 - title: Resources
   link: /resources/
