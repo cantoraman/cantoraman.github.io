@@ -9,11 +9,11 @@ permalink: /personal/
 - JavaScript
 - Maps & Charts
 
-#### At Home Setup
+#### Home Setup:
 - Fedora
 - Mac     
 
-#### Inside the box
+#### Inside the box:
 
 - tmux
 - atom > code > vim
@@ -24,7 +24,7 @@ permalink: /personal/
 - Turn based strategies
 - Miniature Painting
 
-#### Lives
+#### Lives @
 
 Leith, Edinburgh
 
